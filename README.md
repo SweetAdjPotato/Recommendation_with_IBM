@@ -26,15 +26,14 @@ For this project, I was interested in using the user article interaction data on
 ## File Descriptions <a name="files"></a>
 
 * `Recommendations_with_IBM.ipynb` is the a jupyter notebook for the recommendation engine
-
+* `data` folder contains the following:
+  * `articles_community.csv`: csv file containing the articles
+  * `user-item-interactions.csv`: csv file containing user interactions with articles
+* `project_tests.py`: contains the unit tests
 * `top_5.p`: pickle file to test top 5 rank based recommendations
 * `top_10.p`: pickle file to test top 10 rank based recommendations
 * `top_20.p`: pickle file to test top 20 rank based recommendations
 * `user_item_matrix.p`: pickle file to load the user_item matrix
-* `data` folder contains the following:
-  * `articles_community.csv`: csv file containing the articles
-  * `user-item-interactions.csv`: csv file containing user interactions with articles
-*  `project_tests.py`: contains the unit tests
 
 All the functions needed are written in the notebook along with the code.  
 
