@@ -1,7 +1,7 @@
 # Recommendation_with_IBM
 Article recommendations to users on the IBM Watson Studio platform
 
-## Table of Contents
+### Table of Contents
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
