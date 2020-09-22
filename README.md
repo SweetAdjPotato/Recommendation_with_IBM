@@ -12,7 +12,7 @@ Article recommendations to users on the IBM Watson Studio platform
 ## Installation <a name="installation"></a>
 
 1. Python versions 3.7
-1. Library and packages: numpy, pandas, matplotlib, seaborn
+1. Library and packages: numpy, pandas, matplotlib, seaborn, sklearn
 
 ## Project Motivation<a name="motivation"></a>
 
